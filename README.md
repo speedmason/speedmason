@@ -1,4 +1,8 @@
-### Hi there 👋
+## Mason's GitHub Profile
+
+Hi! I'm Mason. I work as a data engineer and I plan on using this page to showcase data science projects.
+
+
 
 <!--
 **speedmason/speedmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
