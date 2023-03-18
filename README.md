@@ -6,7 +6,7 @@ Hi! I'm Mason. I work as a data engineer and I plan on using this page to showca
 
 #### Current
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql)](https://www.python.org/)
 
 #### Learning
 
