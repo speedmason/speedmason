@@ -2,6 +2,10 @@
 
 Hi! I'm Mason. I work as a data engineer and I plan on using this page to showcase data science projects.
 
+### Languages
+
+Python, MySQL, PostgreSQL
+
 
 
 <!--
