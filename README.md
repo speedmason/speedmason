@@ -4,7 +4,13 @@ Hi! I'm Mason. I work as a data engineer and I plan on using this page to showca
 
 ### Languages
 
-Python, MySQL, PostgreSQL
+#### Current
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql)](https://skillicons.dev)
+
+#### Learning
+
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 
